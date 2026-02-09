@@ -258,6 +258,28 @@ API Errors:
 - Universities API may be slow on first load
 - Check Internet & App Transport Security in entitlements
 
+## UI Demo
+
+Here are screenshots of the Student GPA Manager application:
+
+### Login Screen
+![Login](../public/Login.jpeg)
+
+### Dashboard
+![Dashboard](../public/Dashboard.jpeg)
+
+### GPA Management
+![GPA](../public/GPA.jpeg)
+
+### Course Management
+![Course](../public/Course.jpeg)
+
+### User Profile
+![Profile](../public/Profile.jpeg)
+
+### Settings
+![Settings](../public/Setting.jpeg)
+
 ## Future Enhancements
 
 - Implement cloud storage for user data (Firebase/Firestore)
