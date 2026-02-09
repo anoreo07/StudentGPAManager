@@ -1,0 +1,6 @@
+module Pods_StudentGPAManager {
+  umbrella header "Pods-StudentGPAManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

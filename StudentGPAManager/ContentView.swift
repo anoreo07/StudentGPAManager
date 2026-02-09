@@ -1,21 +1,16 @@
-//
-//  ContentView.swift
-//  StudentGPAManager
-//
-//  Created by Nguyễn Hải An on 7/2/26.
-//
-
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject private var authViewModel: AuthViewModel
+
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        Group {
+            if authViewModel.user != nil {
+                MainTabView()
+            } else {
+                AuthFlowView()
+            }
         }
-        .padding()
     }
 }
 
