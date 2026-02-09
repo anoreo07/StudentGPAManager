@@ -263,22 +263,22 @@ API Errors:
 Here are screenshots of the Student GPA Manager application:
 
 ### Login Screen
-![Login](../public/Login.jpeg)
+![Login](public/Login.jpeg)
 
 ### Dashboard
-![Dashboard](../public/Dashboard.jpeg)
+![Dashboard](public/Dashboard.jpeg)
 
 ### GPA Management
-![GPA](../public/GPA.jpeg)
+![GPA](public/GPA.jpeg)
 
 ### Course Management
-![Course](../public/Course.jpeg)
+![Course](public/Course.jpeg)
 
 ### User Profile
-![Profile](../public/Profile.jpeg)
+![Profile](public/Profile.jpeg)
 
 ### Settings
-![Settings](../public/Setting.jpeg)
+![Settings](public/Setting.jpeg)
 
 ## Future Enhancements
 
